@@ -1,46 +1,34 @@
-# Getting Started with Create React App
+# 📚 React: Modernizando a forma de escrever com TypeScript
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este projeto foi desenvolvido como parte do curso **React: Modernizando a forma de escrever com TypeScript** da **Alura**. O objetivo é aplicar os conceitos modernos do React com **TypeScript**, garantindo maior legibilidade, segurança e organização no desenvolvimento de aplicações front-end.
 
-## Available Scripts
+🔗 [Acesse o projeto aqui](https://davidtpires.github.io/alura-studies/)
 
-In the project directory, you can run:
+## 📌 Visão Geral
 
-### `npm start`
+- Criação de uma aplicação React utilizando **TypeScript** desde o início.
+- Uso de **tipagem estática** para maior confiabilidade do código.
+- Escrita moderna com **hooks**, **props tipadas**, e **componentes reutilizáveis**.
+- Boas práticas com **interfaces**, **types** e organização do código.
+- Integração de lógica de **timer**, **formulários**, e **controle de estado**.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## 🛠️ Tecnologias Utilizadas
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- **React:** Biblioteca para construção de interfaces interativas.
+- **TypeScript:** Superset do JavaScript com tipagem estática.
+- **Vite:** Ferramenta moderna de build e desenvolvimento.
+- **npm:** Gerenciador de pacotes.
+- **GitHub Pages:** Publicação estática do projeto.
 
-### `npm test`
+## Coisas importantes para o projeto funcionar
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+- Configuração do **TypeScript** no projeto (instalação de dependências e `tsconfig.json`).
+- Tipagem correta de **props**, **eventos**, e hooks como `useState`, `useEffect`, etc.
+- Uso de arquivos com extensão **.tsx** para componentes React.
+- Separação de responsabilidades com **componentes reutilizáveis** e **tipagens declaradas**.
 
-### `npm run build`
+## 🚀 Como Rodar o Projeto
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/davidtpires/alura-studies.git
